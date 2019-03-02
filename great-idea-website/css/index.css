@@ -63,4 +63,110 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+/* Your code starts here!       30 min GOAL_______________________*/
+
+.container {
+	max-width: 940px;
+	margin:10px 10px 10px 10px;
+}
+
+div{
+	display:inline-block;
+	padding: 10px 10px 10px 10px;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+}
+
+header{
+	display:inline-block;
+}
+#navbar{
+	display:inline-block;
+	width:100%
+}
+
+nav {
+	display:inline-block;
+	text-decoration:none;
+	vertical-align: center;
+}
+
+nav a{
+	text-decoration: none;
+	color: #D3D3D3;
+	display:inline-block;
+	vertical-align:center;
+	padding: 25px 1.75em 25px 1.75em;
+}
+
+/*
+.logo {
+	display:inline-block;
+	margin-left: 20px;
+}
+*/
+
+h1{
+	display:inline-block;
+	text-align: center;
+}
+
+button{
+	display:inline-block;
+	text-align: center;
+	border:1px solid black;
+	margin-top: 20px;
+	padding: 0 10;  /*tb0, rl 10 */
+}
+
+.hero-zone{
+	display: inline-block;
+	width: 49%;
+	vertical-align: middle;
+	text-align:center;
+}
+
+span {
+	text-align: center;
+}
+
+#circle_code{
+	display: inline-block;
+}
+
+.two-wide {
+	display: inline-block;
+}
+
+.two-wide-div{
+	display: inline-block;
+	width: 49% /*400 to ~half 876 photo width*/
+}
+
+.three-wide-div {
+	display: inline-block;
+	width: 32%
+}
+
+.address {
+	padding-left: 10px;
+}
+
+footer{
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+}
+
+
+
+/*#copyright {
+	display: inline-block;
+	text-align: center;
+}*/
+
+
+/*set width of entire page :::: CONTAINTER???  */
